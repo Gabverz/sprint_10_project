@@ -1,6 +1,5 @@
-# sprint_10_project
+# OilyGiant Oil Company - Well Location Selection and Risk Assessment Project
 
-OilyGiant Oil Company - Well Location Selection and Risk Assessment Project
 ### Problem Context:
 Development of a comprehensive machine learning system to identify the most profitable oil drilling locations for OilyGiant company across three different regions, using geological survey data to predict oil reserves and assess financial risks associated with drilling investments.
 
